@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Name
 > Short blurb about what your product does.
 
@@ -76,3 +77,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
+=======
+# test
+>>>>>>> a7c508e8c22b5423254a0d6cf0f32d3c68bbc9fd
