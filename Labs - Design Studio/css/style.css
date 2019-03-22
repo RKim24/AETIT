@@ -5,7 +5,6 @@
  ------------------------------------
  ====================================*/
 
-
 /*----------------------------------------*/
 /*  1.  Theme default CSS
 /*----------------------------------------*/
@@ -36,7 +35,7 @@ h2 {
 
 p {
 	font-size: 15px;
-	color: #6c6e7e;
+	color: rgb(131, 219, 223);
 	line-height: 30px;
 	font-family: "Roboto", sans-serif;
 }
@@ -45,7 +44,7 @@ a:hover,
 a:focus {
 	text-decoration: none;
 	outline: none;
-	color: #0b1033;
+	color: rgb(76,184,72);
 }
 
 li,
@@ -121,10 +120,10 @@ ul {
 }
 
 .section-title h2 span {
-	background: #2be6ab;
+	background: rgb(131,219,223);
 	padding: 0 3px 5px;
 	display: inline-block;
-	color: #0b1033;
+	color: rgb(76,184,72);
 }
 
 .section-title:after {
@@ -135,7 +134,7 @@ ul {
 	width: 5px;
 	height: 30px;
 	margin-left: -2.5px;
-	background: #2be6ab;
+	background: rgb(131,219,223);
 }
 
 .section-title.left {
@@ -148,7 +147,7 @@ ul {
 }
 
 .section-title.dark h2 {
-	color: #0b1033;
+	color: rgb(76,184,72);
 }
 
 /*------------------------
@@ -158,10 +157,10 @@ ul {
 .site-btn {
 	font-family: "Oswald", sans-serif;
 	font-size: 15px;
-	color: #641fb1;
+	color: rgb(0,130,206);
 	display: inline-block;
 	text-transform: uppercase;
-	background: #2be6ab;
+	background: rgb(131,219,223);
 	padding: 15px 50px;
 	font-weight: 500;
 	letter-spacing: 1px;
@@ -171,15 +170,15 @@ ul {
 }
 
 .site-btn.btn-2 {
-	background: #6a23b5;
+	background: rgb(0, 130, 206);
 	color: #fff;
 	font-weight: 400;
 }
 
 .site-btn.btn-3 {
 	background: transparent;
-	color: #6a23b5;
-	border: 1px solid #6a23b5;
+	color: rgb(0, 130, 206);
+	border: 1px solid rgb(0, 130, 206);
 	padding: 14px 50px;
 }
 
@@ -302,7 +301,7 @@ ul {
 
 .header-section .menu-list li a:hover,
 .header-section .menu-list li a.active {
-	color: #6a23b5;
+	color: rgb(0, 130, 206);
 }
 
 .header-section .menu-list li:last-child a {
@@ -310,8 +309,8 @@ ul {
 }
 
 .header-section .menu-list li.active a {
-	background: #2be6ab;
-	color: #6a23b5;
+	background: rgb(131,219,223);
+	color: rgb(0, 130, 206);
 }
 
 .header-section .menu-list .current a:after {
@@ -344,7 +343,7 @@ ul {
 
 .hero-content p {
 	font-size: 50px;
-	color: #0b1033;
+	color: rgb(76,184,72);
 	margin-bottom: 0;
 	margin-top: 35px;
 }
@@ -360,7 +359,7 @@ ul {
 	display: inline-block;
 	height: 50px;
 	width: 100px;
-	background: #6a23b5;
+	background: rgb(0, 130, 206);
 	color: #fff;
 	text-align: center;
 	padding-top: 10px;
@@ -370,7 +369,7 @@ ul {
 
 .owl-carousel .owl-nav .owl-prev:hover,
 .owl-carousel .owl-nav .owl-next:hover {
-	background: #2be6ab;
+	background: rgb(131,219,223);
 }
 
 .owl-carousel .owl-nav .owl-next {
@@ -381,7 +380,7 @@ ul {
 	width: 0%;
 	max-width: 100%;
 	height: 4px;
-	background: #2be6ab;
+	background: rgb(131,219,223);
 }
 
 .owl-carousel #progressBar {
@@ -397,7 +396,7 @@ ul {
 --------------------------*/
 .about-section,
 .team-section {
-	background: #6a23b5;
+	background: rgb(0, 130, 206);
 	position: relative;
 	z-index: 2;
 }
@@ -445,7 +444,7 @@ ul {
 .lab-card h2 {
 	text-transform: uppercase;
 	font-size: 18px;
-	color: #2b1640;
+	color: rgb(76, 184, 72);
 	margin-bottom: 30px;
 	-webkit-transition: all 0.4s ease 0s;
 	-o-transition: all 0.4s ease 0s;
@@ -453,7 +452,7 @@ ul {
 }
 
 .lab-card p {
-	color: #6c6e7e;
+	color: rgb(131, 219, 223);
 	line-height: 30px;
 	-webkit-transition: all 0.4s ease 0s;
 	-o-transition: all 0.4s ease 0s;
@@ -461,7 +460,7 @@ ul {
 }
 
 .lab-card:hover {
-	background: #2be6ab;
+	background: rgb(131,219,223);
 }
 
 .lab-card:hover h2,
@@ -500,8 +499,8 @@ ul {
 	top: 50%;
 	margin-left: -30px;
 	margin-top: -30px;
-	color: #6a23b5;
-	background: #2be6ab;
+	color: rgb(0, 130, 206);
+	background: rgb(131,219,223);
 	border-radius: 50%;
 	text-align: center;
 	padding-top: 20px;
@@ -514,7 +513,7 @@ ul {
 --------------------------*/
 .testimonial-section {
 	padding-top: 320px;
-	background: #220c3b;
+	background: rgb(76,184,72);
 	position: relative;
 }
 
@@ -533,7 +532,7 @@ ul {
 	display: block;
 	font-family: "Roboto", sans-serif;
 	font-size: 48px;
-	color: #6a23b5;
+	color: rgb(0, 130, 206);
 }
 
 .testimonial p {
@@ -570,7 +569,7 @@ ul {
 .testimonial .client-name p {
 	font-style: normal;
 	font-size: 12px;
-	color: #969696;
+	color: rgb(131, 219, 223);
 }
 
 /* Testimonial carousel */
@@ -602,7 +601,7 @@ ul {
 	content: "";
 	width: 28px;
 	height: 28px;
-	border: 2px solid #6a23b5;
+	border: 2px solid rgb(0, 130, 206);
 	border-radius: 40px;
 	left: -10px;
 	top: -10px;
@@ -615,7 +614,7 @@ ul {
 }
 
 #testimonial-slide .owl-dots .owl-dot.active {
-	background: #6a23b5;
+	background: rgb(0, 130, 206);
 	margin-bottom: 25px;
 	margin-top: 25px;
 }
@@ -714,7 +713,7 @@ ul {
 
 .member h3 {
 	font-size: 14px;
-	color: #2be6ab;
+	color: rgb(131,219,223);
 	font-weight: 400;
 	text-transform: uppercase;
 }
@@ -724,7 +723,7 @@ ul {
 	Promotion section
 --------------------------*/
 .promotion-section {
-	background: #2be6ab;
+	background: rgb(131,219,223);
 	padding: 115px 0;
 }
 
@@ -762,7 +761,7 @@ ul {
 	height: 100%;
 	right: -15px;
 	top: 0;
-	background: #6a23b5;
+	background: rgb(0, 130, 206);
 	z-index: -1;
 }
 
@@ -828,7 +827,7 @@ ul {
 
 .contact-info h3 {
 	font-weight: 400;
-	color: #2be6ab;
+	color: rgb(131,219,223);
 	margin-bottom: 20px;
 }
 
@@ -861,7 +860,7 @@ ul {
 .page-top-section {
 	position: relative;
 	height: 405px;
-	background: #6a23b5;
+	background: rgb(0, 130, 206);
 }
 
 .page-top-section .container {
@@ -902,7 +901,7 @@ ul {
 .page-top-section .page-info .page-links span {
 	margin-right: 0;
 	padding-right: 0;
-	color: #2be6ab;
+	color: rgb(131,219,223);
 }
 
 .page-top-section .page-info .page-links span:after {
@@ -914,7 +913,7 @@ ul {
 	Features Section
 --------------------------*/
 .features .icon-box .icon {
-	color: #2be6ab;
+	color: rgb(131,219,223);
 	margin-top: -10px;
 }
 
@@ -949,7 +948,7 @@ ul {
 	left: 0;
 	top: 0;
 	z-index: 1;
-	background: #2be6ab;
+	background: rgb(131,219,223);
 	opacity: 0;
 	-webkit-transition: all 0.4s ease 0s;
 	-o-transition: all 0.4s ease 0s;
@@ -981,7 +980,7 @@ ul {
 	Newsletter Section
 --------------------------*/
 .newsletter-section {
-	background: #2be6ab;
+	background: rgb(131,219,223);
 }
 
 .newsletter-section h2 {
@@ -1003,7 +1002,7 @@ ul {
 	float: left;
 	margin-right: 30px;
 	width: calc(100% - 211px);
-	background: #19cc93;
+	background: rgb(76,184,72);
 	color: #fff;
 }
 
@@ -1054,7 +1053,7 @@ ul {
 	position: absolute;
 	width: 90px;
 	height: 90px;
-	background: #6a23b5;
+	background: rgb(0, 130, 206);
 	top: 17px;
 	left: 17px;
 	text-align: center;
@@ -1070,7 +1069,7 @@ ul {
 
 .post-thumbnail .post-date h3 {
 	font-size: 15px;
-	color: #2be6ab;
+	color: rgb(131,219,223);
 	font-weight: 400;
 }
 
@@ -1087,7 +1086,7 @@ ul {
 }
 
 .post-meta a {
-	color: #0b1033;
+	color: rgb(76,184,72);
 	font-size: 12px;
 	padding-left: 20px;
 	position: relative;
@@ -1101,7 +1100,7 @@ ul {
 	height: 7px;
 	left: 0;
 	top: 3px;
-	background: #2be6ab;
+	background: rgb(131,219,223);
 	border-radius: 10px;
 }
 
@@ -1112,7 +1111,7 @@ ul {
 .read-more {
 	font-family: "Oswald", sans-serif;
 	font-size: 16px;
-	color: #0b1033;
+	color: rgb(76,184,72);
 	position: relative;
 	display: inline-block;
 	clear: both;
@@ -1127,7 +1126,7 @@ ul {
 	height: 3px;
 	left: 0;
 	bottom: 0;
-	background: #2be6ab;
+	background: rgb(131,219,223);
 	border-radius: 10px;
 }
 
@@ -1135,13 +1134,13 @@ ul {
 	display: inline-block;
 	font-family: "Oswald", sans-serif;
 	font-size: 16px;
-	color: #0b1033;
+	color: rgb(76,184,72);
 	padding: 6px 10px;
 	margin-right: 5px;
 }
 
 .page-pagination a.active {
-	background: #2be6ab;
+	background: rgb(131,219,223);
 }
 
 /* Sidebar */
@@ -1160,14 +1159,14 @@ ul {
 }
 
 .widget-item ul li a {
-	color: #6c6e7e;
+	color: rgb(131, 219, 223);
 	display: block;
 	margin-bottom: 20px;
 	font-size: 15px;
 }
 
 .widget-item ul li a:hover {
-	color: #2be6ab;
+	color: rgb(131,219,223);
 }
 
 .widget-item ul li:last-child a {
@@ -1191,7 +1190,7 @@ ul {
 
 .widget-item ul.tag li {
 	display: inline-block;
-	background: #2be6ab;
+	background: rgb(131,219,223);
 	padding: 10px 24px;
 	float: left;
 	margin-right: 10px;
@@ -1199,13 +1198,13 @@ ul {
 }
 
 .widget-item ul.tag li a {
-	color: #6a23b5;
+	color: rgb(0, 130, 206);
 	margin-bottom: 0;
 }
 
 .widget-item .quote .quotation {
 	display: block;
-	color: #2be6ab;
+	color: rgb(131,219,223);
 	font-size: 60px;
 	line-height: normal;
 	margin-bottom: -20px;
@@ -1218,7 +1217,7 @@ ul {
 .search-form input[type="text"] {
 	width: 100%;
 	border: none;
-	background: #2be6ab;
+	background: rgb(131,219,223);
 	padding: 15px 20px;
 }
 
@@ -1235,8 +1234,8 @@ ul {
 	right: 0;
 	top: 0;
 	border: 0;
-	background: #6a23b5;
-	color: #2be6ab;
+	background: rgb(0, 130, 206);
+	color: rgb(131,219,223);
 }
 
 .search-form .search-btn:focus,
@@ -1355,7 +1354,7 @@ ul {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: #2be6ab;
+	background: rgb(131,219,223);
 }
 
 .bar-inner span {
@@ -1378,7 +1377,7 @@ ul {
 }
 
 .site-accordions .panel-heading {
-	background: #6a23b5;
+	background: rgb(0, 130, 206);
 	color: #fff;
 	position: relative;
 	padding: 16px 50px;
@@ -1418,17 +1417,17 @@ ul {
 }
 
 .site-accordions .panel.active .panel-heading {
-	background: #2be6ab;
-	color: #6a23b5;
+	background: rgb(131,219,223);
+	color: rgb(0, 130, 206);
 }
 
 .site-accordions .panel.active .panel-heading a {
-	background: #6a23b5;
+	background: rgb(0, 130, 206);
 }
 
 .site-accordions .panel.active .panel-heading a:after {
 	content: "-";
-	color: #2be6ab;
+	color: rgb(131,219,223);
 	left: 23px;
 	padding-top: 13px;
 }
@@ -1467,7 +1466,7 @@ ul {
 
 .facts .fact .icon {
 	margin-right: 20px;
-	color: #6a23b5;
+	color: rgb(0, 130, 206);
 	font-size: 45px;
 	padding-top: 10px;
 }
@@ -1475,7 +1474,7 @@ ul {
 .facts .fact .fact-text h2 {
 	font-family: "Roboto", sans-serif;
 	font-size: 72px;
-	color: #2be6ab;
+	color: rgb(131,219,223);
 	font-weight: 600;
 	margin-bottom: 5px;
 }
@@ -1739,5 +1738,5 @@ ul {
 }
 .centerwords{
 	font-family: 'Share Tech Mono', monospace;
-	text-shadow: 2px 2px rgb(126, 74, 158);
+	text-shadow: 2px 2px rgb(0,130,206);
 }
