@@ -1,12 +1,12 @@
 <<<<<<< HEAD
-# Product Name
-> Short blurb about what your product does.
+# AETIT Website
+> This website provides a place to provide information about the IT program at AET
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+The website provides a single location to hold information about the IT program at AET. This webpage will allow students to learn about opportunities related to computer science available. Additionally, this website will encourage new rising high schoolers to attend the school. The website will have descriptions of the IT courses, activities, news, events, and teachers. The website will include links to the official AET website.
 
 ![](header.png)
 
@@ -41,22 +41,30 @@ npm test
 
 ## Release History
 
-* 0.1.1 3-18-2019
-    * Navbar, jumbotron
-      * ADD: signup buttons in Navbar
-      * CHANGE:  Background Photo in jumbotron
-      * CHANGE: Color Scheme to match customer requirements (blue/teal)
-
-
-* 0.2.1 3-20-2019
-    * Made changes based on CSR #1
-      *  ADD: Logo in left hand corner
-      *  CHANGE: Text under signup buttons
-
+Change log:
+-initial file load with template
+-navigation bar items names were changed to the correct labels
+-the template logo was changed to the academies Logo
+-the title of the webpage was changed to AETIT
+-the font size of the center title was set to 50px
+-the html file names were changed to match the actual sub categories
+-the headers of the sub webpages were changed to match the navigation bar labels
+-the unnecessary sections of the webpages were deleted to remove clutter
+-the homepage slideshow images were changed to pictures of the academies building
+-the slideshow images were made opaque to allow for the words to be read
+-re-added some sections to the home page to be edited
+-the logo size on the navigation bar was changed to take up less space
+-replaced previously deleted code to correct extra text from appearing
+-added google fonts and incorporated them on the center words
+-added descriptions to headers on the sub webpages
+-changed all of the colors of the website to match the academies colors
+-deleted more unnecessary sections to remove clutter
+-added links to the academies webpage and added descriptions and headers
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Ryan Kim
+Grace Dhankhar
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
